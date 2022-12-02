@@ -27,6 +27,10 @@ Go to the project directory
 Clone the project
 ```bash
   git clone git@github.com:yurubiftin/code-challenge1.git
+Go to the repository you have already cloned
+  cd 'code-challenge1'
+open the visual studio code
+  code .
 ```
 ```
 Install dependencies
