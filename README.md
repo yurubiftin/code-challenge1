@@ -22,6 +22,7 @@ To run tests, run the following command
   node <fileName>
 ```
 ## Run Locally
+Open a terminal / command line interface on your computer
 Go to the project directory
     cd 'MyFolder'
 Clone the project
@@ -29,7 +30,7 @@ Clone the project
   git clone git@github.com:yurubiftin/code-challenge1.git
 Go to the repository you have already cloned
   cd 'code-challenge1'
-open the visual studio code
+open it in 'visual studio code'
   code .
 ```
 ```
